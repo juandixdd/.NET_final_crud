@@ -1,0 +1,14 @@
+Repo:
+https://github.com/juandixdd/.NET_final_crud
+
+Hacer migration
+- add-migration nombre
+- update-database
+
+Añadir datos a las tablas:
+- Roles
+- Categorias
+- Usuarios
+
+INSERT INTO Productos (Codigo, Nombre)
+VALUES ('qs11', 'Leche de coco')
